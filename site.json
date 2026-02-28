@@ -1,13 +1,13 @@
 {
-  "business_name": "Your Business Name",
-  "headline": "Main headline goes here",
-  "subheadline": "Short supporting sentence explaining the offer",
-  "cta_text": "Get Started",
-  "cta_link": "#",
+  "business_name": "Hounslow Electrical Services",
+  "headline": "Certified electrician in Hounslow",
+  "subheadline": "Fault finding, rewiring, fuse boards, emergency callouts.",
+  "cta_text": "Call now",
+  "cta_link": "tel:+442000000000",
   "features": [
-    "First key benefit",
-    "Second key benefit",
-    "Third key benefit"
-  ],
-  "template_version": "1.1"
+    "NICEIC-certified work for domestic electrical jobs",
+    "Fast fault diagnosis and safe repair recommendations",
+    "Fuse board upgrades and full/partial rewiring",
+    "Emergency callouts when engineers are available"
+  ]
 }
